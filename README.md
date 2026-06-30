@@ -2,6 +2,8 @@
 
 这是一个 Codex 自定义宠物包，基于参考图左侧古装女生生成。
 
+![商心慈 Codex Pet 预览](contact-sheet.png)
+
 - 显示名：商心慈
 - 常用昵称：小商
 - 宠物 ID：shangxinci
